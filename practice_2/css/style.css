@@ -2,3 +2,17 @@ h1, h2 {
 	background: black;
 	color: white;
 }
+nav {
+	background: mistyrose;
+	color: orchid;
+}
+.bio {
+	background: pink;
+	color: saddlebrown;
+}
+#born {
+	color: #FF4500;
+}
+p {
+	background: whitesmoke;
+}
